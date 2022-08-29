@@ -20,7 +20,7 @@
 <br>
 
 
-### 🔗 &nbsp; **About Me**
+### 📝 &nbsp; **About Me**
 -----
 - 🔭 &nbsp;I’m a Grad Engineering Student and a machine learning enthusiast/researcher. I like to design, train and analyze algorithms that can learn autonomously. I have a strong background in machine learning, deep learning, and reinforcement learning.
 
@@ -58,4 +58,10 @@
 
 <br/>
 
+### 📈 &nbsp; **Profile Hits**
+-----
+<div align="center">
 
+![Profile Hits](https://profile-counter.glitch.me/ebrahimpichka/count.svg)
+
+</div>
