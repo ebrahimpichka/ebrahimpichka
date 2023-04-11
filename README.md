@@ -28,7 +28,7 @@
 -----
 - 🔭 &nbsp;I’m a Grad Engineering Student and a machine learning enthusiast/researcher. My primary research interests include machine/deep learning, deep reinforcement learning, mathematical optimization and operations research, graph neural networks, and graph-powered ML. Also, I have always had an eye for advancements and research in Natural Language Processing.
 
-- 🌱&nbsp; I am passionate about solving complex problems with artificial intelligence, whether they are in applied areas such as healthcare, finance, and supply chain, or in more fundamental topics of AI such as optimization techniques, learning methods, and model architectures.
+- 🌱&nbsp; I enjoy solving complex problems with artificial intelligence, whether they are in applied areas such as healthcare, finance, and supply chain, or in more fundamental topics of AI such as optimization techniques, learning methods, and model architectures.
 
 
 
