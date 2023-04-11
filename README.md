@@ -60,12 +60,3 @@
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://simpleicons.vercel.app/cplusplus/00599C" alt="C++" width="40" height="40"/> </a>
 <a href="https://julialang.org/" target="_blank"> <img src="https://simpleicons.vercel.app/julia/9558B2" alt="julia" width="40" height="40"/> </a>
 
-<br/>
-
-### 📈 &nbsp; **Profile Hits**
------
-<div align="center">
-
-![Profile Hits](https://profile-counter.glitch.me/ebrahimpichka/count.svg)
-
-</div>
