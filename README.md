@@ -39,7 +39,7 @@
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.vercel.app/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40"/> </a>
 <a href="https://www.keras.io/" target="_blank"> <img src="https://simpleicons.vercel.app/keras/D00000" alt="Keras" width="40" height="40"/> </a>
 <a href="https://pytorch.org//" target="_blank"> <img src="https://simpleicons.vercel.app/pytorch/EE4C2C" alt="PyTorch" width="40" height="40"/> </a>
-<a href="https://www.pytorchlightning.ai/" target="_blank"> <img src="https://simpleicons.vercel.app/pytorchlightning/792EE5" alt="PyTorchLighning" width="40" height="40"/> </a>
+<a href="https://www.pytorchlightning.ai/" target="_blank"> <img src="https://simpleicons.vercel.app/lightning/792EE5" alt="PyTorchLighning" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://simpleicons.vercel.app/scikitlearn/F7931E" alt="sklearn" width="40" height="40"/> </a>
 <a href="https://www.gymlibrary.ml/" target="_blank"> <img src="https://simpleicons.vercel.app/openaigym/0081A5" alt="openaigym" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://simpleicons.vercel.app/scipy/8CAAE6" alt="scipy" width="40" height="40"/> </a>
