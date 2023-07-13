@@ -1,17 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header)
-### Hi!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
 
 
-### 📝 &nbsp; **About Me**
+### **About Me**
 -----
-- 🔭 &nbsp;I’m a Grad Engineering Student and a machine learning enthusiast/researcher. My primary research interests include machine/deep learning, deep reinforcement learning, mathematical optimization and operations research, graph neural networks, and graph-powered ML. Also, I have always had an eye for advancements and research in Natural Language Processing.
-
-- 🌱&nbsp; I enjoy solving complex problems in the AI domain, whether they are in applied areas such as healthcare, finance, and supply chain, or in more fundamental topics of AI such as optimization techniques, learning methods, and model architectures.
+- I’m a Grad Engineering Student and a machine learning enthusiast/researcher. My primary research interests include deep reinforcement learning, applications of machine learning in mathematical optimization and operations research, graph representation learning, and geometric deep learning. I also always have an eye for advancements and research in more fundamental topics of AI such as novel optimization techniques, learning methods, and architectures..
 
 
 
-### 🛠️ &nbsp; **My ML Stack**
+
+### **My ML Stack**
 -----
 <p align="left">
 <a href="https://python.org/" target="_blank"> <img src="https://simpleicons.vercel.app/python/3776AB" alt="Python" width="40" height="40"/> </a>
@@ -40,7 +37,7 @@
 
 
 
-### 🔗 &nbsp; **Connect with me**
+### **Connect with me**
 -----
 <p align="left">
 <a href="https://twitter.com/ebrahimpka">
