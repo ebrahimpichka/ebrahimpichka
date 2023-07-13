@@ -11,7 +11,7 @@
 
 
 
-### 🛠️ &nbsp; **My AI/ML Stack**
+### 🛠️ &nbsp; **My ML Stack**
 -----
 <p align="left">
 <a href="https://python.org/" target="_blank"> <img src="https://simpleicons.vercel.app/python/3776AB" alt="Python" width="40" height="40"/> </a>
