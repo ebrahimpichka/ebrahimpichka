@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header)
+
+
 ### Hi there, It's Ebrahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <br>
 
@@ -58,4 +61,5 @@
 <a href="https://mongodb.com/" target="_blank"> <img src="https://simpleicons.vercel.app/mongodb/47A248" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://simpleicons.vercel.app/cplusplus/00599C" alt="C++" width="40" height="40"/> </a>
 <a href="https://julialang.org/" target="_blank"> <img src="https://simpleicons.vercel.app/julia/9558B2" alt="julia" width="40" height="40"/> </a>
+
 
