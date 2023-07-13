@@ -1,27 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header)
-### Hi there, It's Ebrahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-<br>
-
-
-### 🔗 &nbsp; **Connect with me**
------
-<p align="left">
-<a href="https://twitter.com/ebrahimpka">
-  <img align="left" alt="Ebrahim's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/1DA1F2" />
-</a>
-<a href="https://www.linkedin.com/in/ebrahim-pichka/">
-  <img align="left" alt="Ebrahim's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
-</a>
-</a>
-<a href="https://ebrahimpichka.medium.com/">
-  <img align="left" alt="Ebrahim's Medium" width="20px" src="https://simpleicons.now.sh/medium/EEEEEE" />
-</a>
-<a href="mailto:ebrahim.pichka@gmail.com">
-  <img align="left" alt="Ebrahim's Gmail" width="20px" src="https://simpleicons.now.sh/gmail/EA4335" />
-<a href="https://stackoverflow.com/users/11813722/ebrahim-pichka">
-  <img align="left" alt="Ebrahim's Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/F58025" />
-</a>
-<br>
+### Hi!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <br>
 
 
@@ -60,4 +38,26 @@
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://simpleicons.vercel.app/cplusplus/00599C" alt="C++" width="40" height="40"/> </a>
 <a href="https://julialang.org/" target="_blank"> <img src="https://simpleicons.vercel.app/julia/9558B2" alt="julia" width="40" height="40"/> </a>
 
+
+
+### 🔗 &nbsp; **Connect with me**
+-----
+<p align="left">
+<a href="https://twitter.com/ebrahimpka">
+  <img align="left" alt="Ebrahim's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/1DA1F2" />
+</a>
+<a href="https://www.linkedin.com/in/ebrahim-pichka/">
+  <img align="left" alt="Ebrahim's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
+</a>
+</a>
+<a href="https://ebrahimpichka.medium.com/">
+  <img align="left" alt="Ebrahim's Medium" width="20px" src="https://simpleicons.now.sh/medium/EEEEEE" />
+</a>
+<a href="mailto:ebrahim.pichka@gmail.com">
+  <img align="left" alt="Ebrahim's Gmail" width="20px" src="https://simpleicons.now.sh/gmail/EA4335" />
+<a href="https://stackoverflow.com/users/11813722/ebrahim-pichka">
+  <img align="left" alt="Ebrahim's Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/F58025" />
+</a>
+<br>
+<br>
 
