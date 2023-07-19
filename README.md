@@ -23,7 +23,8 @@
 <a href="https://colab.research.google.com/" target="_blank"> <img src="https://simpleicons.vercel.app/googlecolab/F9AB00" alt="Colab" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://simpleicons.vercel.app/opencv/5C3EE8" alt="opencv" width="40" height="40"/> </a>
 <br>
-<a href="https://www.pyg.org/" target="_blank"> <img src="https://simpleicons.vercel.app/pyg/3C2179" alt="pyg" width="40" height="40"/> </a>
+<!-- <a href="https://www.pyg.org/" target="_blank"> <img src="https://simpleicons.vercel.app/pyg/3C2179" alt="pyg" width="40" height="40"/> </a> -->
+<a href="https://www.pyg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/> </a>
 <a href="https://www.numpy.org/" target="_blank"> <img src="https://simpleicons.vercel.app/numpy/013243" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://simpleicons.vercel.app/pandas/150458" alt="pandas" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://simpleicons.vercel.app/visualstudiocode/007ACC" alt="VSCode" width="40" height="40"/> </a>
