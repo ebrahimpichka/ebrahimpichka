@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
+<!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header) -->
 
-![./gifs/giphy.git](https://github.com/ebrahimpichka/ebrahimpichka/blob/main/gifs/giphy.gif)
+
+<p align="center">
+<img src="https://github.com/ebrahimpichka/ebrahimpichka/blob/main/gifs/giphy.gif" width="385" height="305" />
+</p>
 
 ### **About**
 -----
@@ -11,7 +14,7 @@
 
 ### **My Stack**
 -----
-<p align="left">
+<p align="center">
 <a href="https://python.org/" target="_blank"> <img src="https://simpleicons.vercel.app/python/3776AB" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.vercel.app/tensorflow/FF6F00" alt="TensorFlow" width="40" height="40"/> </a>
 <a href="https://www.keras.io/" target="_blank"> <img src="https://simpleicons.vercel.app/keras/D00000" alt="Keras" width="40" height="40"/> </a>
@@ -37,14 +40,14 @@
 <a href="https://postgresql.org/" target="_blank"> <img src="https://simpleicons.vercel.app/postgresql/4169E1" alt="postgreSQL" width="40" height="40"/> </a>
 <a href="https://mysql.com/" target="_blank"> <img src="https://simpleicons.vercel.app/mysql/4479A1" alt="mysql" width="40" height="40"/> </a>
 <a href="https://mongodb.com/" target="_blank"> <img src="https://simpleicons.vercel.app/mongodb/47A248" alt="mongodb" width="40" height="40"/> </a> -->
-
+</p>
 
 
 
 
 ### **Connect with me**
 -----
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ebrahimpka">
   <img align="left" alt="Ebrahim's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/1DA1F2" />
 </a>
@@ -60,6 +63,7 @@
 <a href="https://stackoverflow.com/users/11813722/ebrahim-pichka">
   <img align="left" alt="Ebrahim's Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/F58025" />
 </a>
+</p>
 <br>
 <br>
 
