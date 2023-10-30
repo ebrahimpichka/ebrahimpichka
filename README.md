@@ -59,3 +59,12 @@
 <br>
 <br>
 
+<!--
+### 📈 **Profile Hits**
+-----
+<div align="center">
+
+![Profile Hits](https://profile-counter.glitch.me/ebrahimpichka/count.svg)
+
+</div>
+-->
