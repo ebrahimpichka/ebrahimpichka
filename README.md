@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/ebrahimpichka/ebrahimpichka/blob/main/gifs/giphy.gif" width="385" height="305" />
+<img src="https://github.com/ebrahimpichka/ebrahimpichka/blob/main/gifs/giphy.gif" width="325" height="250" />
 </p>
 
 ### **About**
