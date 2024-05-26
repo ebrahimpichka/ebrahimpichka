@@ -2,17 +2,14 @@
 
 
 <p align="center">
-<img src="https://github.com/ebrahimpichka/ebrahimpichka/blob/main/gifs/giphy.gif" width="323" height="250" />
+<img src="https://github.com/ebrahimpichka/ebrahimpichka/blob/main/gifs/giphy.gif" width="214" height="165" />
 </p>
 
 ### **About**
 -----
-- I’m an Engineering grad student and a machine learning enthusiast/researcher. My primary research interests include deep RL, applications of machine learning in mathematical optimization and operations research, graph representation learning, and geometric deep learning. Also, I always have an eye for advances and research in more fundamental topics of AI such as optimization techniques, and learning methods.
+I’m an Engineering grad student and a ML enthusiast/researcher. My interests primarily include deep RL, applications of machine learning in mathematical optimization and operations research, graph representation learning, and geometric deep learning. Also, I always have an eye for advances and research in more fundamental topics of AI such as optimization techniques, and learning methods.
 
-
-
-
-### **My Stack**
+### **Stack**
 -----
 <p align="center">
 <a href="https://python.org/" target="_blank"> <img src="https://simpleicons.vercel.app/python/3776AB" alt="Python" width="40" height="40"/> </a>
