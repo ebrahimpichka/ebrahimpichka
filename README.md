@@ -46,8 +46,8 @@ I’m an Engineering grad student and a ML enthusiast/researcher. My interests p
 -----
 
 <p align="center">
-<a href="https://twitter.com/ebrahimpka"> <img align="left" alt="Ebrahim's Twitter" width="20px" src="https://simpleicons.now.sh/x/000000" /></a>
-<a href="https://www.linkedin.com/in/ebrahim-pichka/"><img align="left" alt="Ebrahim's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" /></a>
+<a href="https://twitter.com/ebrahimpka"> <img align="left" alt="Ebrahim's Twitter" width="20px" src="https://simpleicons.now.sh/x/FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/ebrahim-pichka/"><img align="left" alt="Ebrahim's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /></a>
 <a href="https://ebrahimpichka.medium.com/"><img align="left" alt="Ebrahim's Medium" width="20px" src="https://simpleicons.now.sh/medium/EEEEEE" /></a>
 <a href="mailto:ebrahim.pichka@gmail.com"><img align="left" alt="Ebrahim's Gmail" width="20px" src="https://simpleicons.now.sh/gmail/EA4335" /></a>
 <a href="https://stackoverflow.com/users/11813722/ebrahim-pichka"><img align="left" alt="Ebrahim's Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/F58025" /></a>
