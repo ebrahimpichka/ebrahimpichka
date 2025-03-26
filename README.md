@@ -7,7 +7,7 @@
 
 ### **About**
 -----
-I’m an Engineering grad student and a ML enthusiast/researcher. My interests primarily include deep RL, applications of machine learning in mathematical optimization and operations research, graph representation learning, and geometric deep learning. Also, I always have an eye for advances and research in more fundamental topics of AI such as optimization techniques, and learning methods.
+I’m an engineering graduate and ML enthusiast/researcher. My interests primarily include deep RL, applications of machine learning in mathematical optimization and operations research, graph representation learning, and geometric deep learning. Also, I always have an eye for advances and research in more fundamental topics of AI such as optimization techniques, and learning methods.
 
 ### **Stack**
 -----
