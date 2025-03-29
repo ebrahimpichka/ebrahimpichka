@@ -22,11 +22,11 @@ I’m an engineering graduate and ML enthusiast/researcher. My interests primari
 <!-- <a href="https://jupyter.org/" target="_blank"> <img src="https://simpleicons.vercel.app/jupyter/F37626" alt="jupyter" width="40" height="40"/> </a>  -->
 <br>
 <!-- <a href="https://www.pyg.org/" target="_blank"> <img src="https://simpleicons.vercel.app/pyg/3C2179" alt="pyg" width="40" height="40"/> </a> -->
+<a href="https://docs.jax.dev/en/latest/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/512px-Google_JAX_logo.svg.png" alt="JAX" width="60" height="40"/> </a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://simpleicons.vercel.app/cplusplus/00599C" alt="C++" width="40" height="40"/> </a>
 <a href="https://julialang.org/" target="_blank"> <img src="https://simpleicons.vercel.app/julia/9558B2" alt="julia" width="40" height="40"/> </a>
 <a href="https://www.gurobi.com/" target="_blank"> <img src="https://simpleicons.vercel.app/gurobi/EE3524" alt="julia" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com/" target="_blank"> <img src="https://simpleicons.vercel.app/googlecolab/F9AB00" alt="Colab" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://simpleicons.vercel.app/opencv/5C3EE8" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.gymlibrary.ml/" target="_blank"> <img src="https://simpleicons.vercel.app/openaigym/0081A5" alt="openaigym" width="40" height="40"/> </a>
 <a href="https://www.scipy.org/" target="_blank"> <img src="https://simpleicons.vercel.app/scipy/8CAAE6" alt="scipy" width="40" height="40"/> </a>
 <!-- <a href="https://www.numpy.org/" target="_blank"> <img src="https://simpleicons.vercel.app/numpy/013243" alt="numpy" width="40" height="40"/> </a>
